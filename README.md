@@ -102,7 +102,7 @@ By the end of this workshop, participants will be able to:
 
 This event follows the **PSF Code of Conduct**: https://www.python.org/psf/conduct/
 
-All participants, organizers, and volunteers are expected to abide by it. Instances of unacceptable behavior may be reported to *[ORGANIZER EMAIL — TO BE CONFIRMED]* or via a confidential [GitHub Issue](../../issues) marked `conduct`.
+All participants, organizers, and volunteers are expected to abide by it. Instances of unacceptable behavior may be reported to Dennis Irumba|irumba@myshulelink.com or via a confidential [GitHub Issue](../../issues) marked `conduct`.
 
 ---
 
